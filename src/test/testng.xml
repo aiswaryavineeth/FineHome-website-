@@ -2,8 +2,8 @@
 <suite name="AutomationSuite">
     <test name="Login Test">
         <classes>
+            <class name="createAccount"/>
 
-            <class name="Login"/>
         </classes>
     </test>
 </suite>
