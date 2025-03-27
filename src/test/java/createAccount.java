@@ -10,10 +10,17 @@ public class createAccount extends Main{
             create.clicksignup();
             Thread.sleep(1000);
             create.emailid("nila@gmail.com");
-            create.ccode();
+          //  create.ccode();
             create.country();
             create.phnumber("566088345");
             create.uname("nilanisah");
+            create.firstName("nila");
+            create.lastName("nis");
+            create.pwd("Ddd@1234");
+            create.conpwd("Ddd@1234");
+            create.sub();
+            create.otp("123456");
+            create.otpsubmit();
 
 
 
