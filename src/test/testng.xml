@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="AutomationSuite">
-    <test name="Login Test">
-        <classes>
-            <class name="createAccount"/>
 
+
+    <test name="Create Account Test">
+        <classes>
+            <class name="tests.createAccount"/>
         </classes>
     </test>
+
+<test name="Login Test">
+    <classes>
+        <class name="tests.Login"/>
+    </classes>
+</test>
+<test name="Logout Test">
+    <classes>
+        <class name="tests.Logout"/>
+    </classes>
+</test>
+
+
 </suite>

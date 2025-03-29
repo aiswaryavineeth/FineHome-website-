@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3488","logintest","AutomationSuite","Sat Mar 29 09:31:02 GST 2025","passed","Sat Mar 29 09:31:05 GST 2025","tests.Login","Login Test","tests.Login","logintest"
+"","8470","createAccountTest","AutomationSuite","Sat Mar 29 09:30:52 GST 2025","passed","Sat Mar 29 09:31:01 GST 2025","tests.createAccount","Create Account Test","tests.createAccount","createAccountTest"
+"","1","logintest","AutomationSuite","Thu Mar 27 14:58:00 GST 2025","broken","Thu Mar 27 14:58:00 GST 2025","Login","Login Test","Login","logintest"
+"","3261","logoutTest","AutomationSuite","Sat Mar 29 09:31:05 GST 2025","passed","Sat Mar 29 09:31:08 GST 2025","tests.Logout","Logout Test","tests.Logout","logoutTest"
+"","12","createaccounttest","Default Suite","Fri Mar 28 11:14:23 GST 2025","broken","Fri Mar 28 11:14:23 GST 2025","createAccount","FineHome_webiste","createAccount","createaccounttest"
+"","2","logoutTest","AutomationSuite","Thu Mar 27 14:58:00 GST 2025","broken","Thu Mar 27 14:58:00 GST 2025","Logout","Login Test","Logout","logoutTest"
