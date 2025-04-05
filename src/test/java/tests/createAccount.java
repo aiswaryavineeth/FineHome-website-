@@ -2,11 +2,14 @@ package tests;
 
 import POM.CreateAccountPage;
 import org.testng.annotations.Test;
+
+import java.io.IOException;
+
 import static core.Main.driver;
 
 public class createAccount {
     @Test(priority = 1)
-    public void createAccountTest() throws InterruptedException {
+    public void createAccountTest() throws InterruptedException, IOException {
         core.Main.initializeDriver();
         driver.get("https://app.finehome360.com/");
 

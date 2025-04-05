@@ -24,6 +24,6 @@ public class Login {
         loginPage.enterEmail("nish2000@gmail.com");
         loginPage.enterPassword("Nish@2025");
         loginPage.submit();
-
+        Thread.sleep(1000);
     }
 }

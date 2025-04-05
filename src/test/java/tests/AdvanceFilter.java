@@ -7,7 +7,7 @@ public class AdvanceFilter {
     @Test(priority=4)
     public void filter(){
         AdvanceFilterPage advance=new AdvanceFilterPage();
-        git
+
 
     }
 }
