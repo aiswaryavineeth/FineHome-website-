@@ -5,7 +5,7 @@
 
     <test name="Create Account Test">
         <classes>
-            <class name="tests.createAccount"/>
+            <class name="tests.CreateAccountTest"/>
         </classes>
     </test>
 
